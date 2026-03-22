@@ -6,7 +6,11 @@ def subtract(a, b):
     return a - b 
 def multiply(a, b): 
     """Return the product of a and b.""" 
-    return a * b 
+    return a * b
+def divide(a, b)
+    """Return the quitient of a and b"""
+    return a / b
+
 if __name__ == "__main__": 
     print("Addition:    ", add(10, 5)) 
     print("Subtraction: ", subtract(10, 5)) 
